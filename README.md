@@ -4,7 +4,7 @@
 **CNN의 로컬 특징**과 **ViT의 전역 문맥**을 결합한 **CNN-ViT 하이브리드**로, 정상↔초경증 경계 판별을 개선하는 것이 핵심 목표입니다.
 
 ## Dataset
-- Augmented Alzheimer MRI Dataset (OASIS 기반)
+- Original Alzheimer MRI Dataset (OASIS 기반)
 - 총 6,400장 / 4 classes (불균형 고려, 증강·샘플링 적용)
 
 ## Methods
